@@ -1,0 +1,170 @@
+   0.000 2021-03-06 00:14:29; Factorio 1.1.26 (build 58172, win64, steam)
+   0.000 Operating system: Windows 10 (version 2004) 
+   0.000 Program arguments: "C:\Program Files (x86)\Steam\steamapps\common\Factorio\bin\x64\Factorio.exe" 
+   0.000 Read data path: C:/Program Files (x86)/Steam/steamapps/common/Factorio/data
+   0.000 Write data path: C:/Users/jovia/AppData/Roaming/Factorio [388766/976116MB]
+   0.000 Binaries path: C:/Program Files (x86)/Steam/steamapps/common/Factorio/bin
+   0.008 System info: [CPU: Intel(R) Core(TM) i5-9400F CPU @ 2.90GHz, 6 cores, RAM: 4201/16318 MB, page: 6265/18750 MB, virtual: 4330/134217727 MB, extended virtual: 0 MB]
+   0.010 Display options: [FullScreen: 1] [VSync: 1] [UIScale: automatic (100.0%)] [Native DPI: 1] [Screen: 255] [Special: lmw] [Lang: en]
+   0.021 Available displays: 2
+   0.021  [0]: \\.\DISPLAY1 - NVIDIA GeForce GTX 1660 Ti {0x05, [0,0], 1920x1080, 32bit, 60Hz}
+   0.022  [1]: \\.\DISPLAY2 - NVIDIA GeForce GTX 1660 Ti {0x01, [-1920,0], 1920x1080, 32bit, 60Hz}
+   0.068 [Direct3D11] Display: 0, Output: 0, DisplayAdapter: 0, RenderingAdapter: 0; d3dcompiler_47.dll
+   0.199 Initialised Direct3D[0]: NVIDIA GeForce GTX 1660 Ti; id: 10de-2182; driver: nvldumdx.dll 27.21.14.5671
+   0.199   D3D Feature Level: 11.1, DXGI 1.5+, SwapChain: 3,flip-discard,-,-,-,none
+   0.199   [Local Video Memory] Budget: 5223MB, CurrentUsage: 2MB, Reservation: 0/2739MB
+   0.199   [Non-Local Vid.Mem.] Budget: 7495MB, CurrentUsage: 0MB, Reservation: 0/3875MB
+   0.199   Tiled resources: Tier 2
+   0.199   Unified Memory Architecture: No
+   0.199   BGR 565 Supported: Yes
+   0.199   MaximumFrameLatency: 3, GPUThreadPriority: 0
+   0.200 Graphics settings preset: very-high
+   0.200   Dedicated video memory size 5991 MB
+   0.255 Desktop composition is active.
+   0.255 Graphics options: [Graphics quality: high] [Video memory usage: all] [Light scale: 25%] [DXT: high-quality] [Color: 32bit]
+   0.255                   [Max threads (load/render): 32/6] [Max texture size: 0] [Tex.Stream.: 0] [Rotation quality: normal] [Other: STDCWT] [B:0,C:0,S:100]
+   0.292 DSound: Starting _dsound_update thread
+   0.292 [Audio] Backend:default; Depth:16, Channel:2, Frequency:44100; MixerQuality:linear
+   0.292 DSound: Enter _dsound_update; tid=3824
+   0.362 Info ModManager.cpp:254: Found duplicate mod Rampant, using higher version (1.0.4 > 1.0.1).
+   0.369 Info ModManager.cpp:254: Found duplicate mod RampantArsenal, using higher version (1.0.4 > 1.0.2).
+   0.371 Info ModManager.cpp:254: Found duplicate mod Squeak Through, using higher version (1.8.2 > 1.8.1).
+   0.372 Loading mod settings Clockwork 1.1.0 (settings.lua)
+   0.372 Loading mod settings RampantArsenal 1.0.4 (settings.lua)
+   0.373 Loading mod settings Squeak Through 1.8.2 (settings.lua)
+   0.373 Loading mod settings Rampant 1.0.4 (settings.lua)
+   0.375 Loading mod core 0.0.0 (data.lua)
+   0.462 Loading mod base 1.1.26 (data.lua)
+   0.749 Loading mod Clockwork 1.1.0 (data.lua)
+   0.888 Loading mod RampantArsenal 1.0.4 (data.lua)
+   1.058 Loading mod Rampant 1.0.4 (data.lua)
+   1.206 Loading mod base 1.1.26 (data-updates.lua)
+   1.346 Loading mod RampantArsenal 1.0.4 (data-updates.lua)
+   1.481 Loading mod Squeak Through 1.8.2 (data-updates.lua)
+   1.619 Loading mod Rampant 1.0.4 (data-updates.lua)
+   1.769 Loading mod Clockwork 1.1.0 (data-final-fixes.lua)
+   1.902 Loading mod Rampant 1.0.4 (data-final-fixes.lua)
+   2.880 Checksum for core: 217331212
+   2.880 Checksum of base: 3777792092
+   2.880 Checksum of Clockwork: 2194134592
+   2.880 Checksum of NoRespawnGun-Updated: 0
+   2.880 Checksum of RampantArsenal: 3501207070
+   2.880 Checksum of Squeak Through: 2759453103
+   2.880 Checksum of Rampant: 1736005981
+   3.696 Prototype list checksum: 2277848438
+   3.876 Loading sounds...
+   4.063 Info PlayerData.cpp:73: Local player-data.json unavailable
+   4.063 Info PlayerData.cpp:76: Cloud player-data.json available, timestamp 1615017825
+   4.601 Initial atlas bitmap size is 16384
+   4.639 Created atlas bitmap 16384x16380 [none]
+   4.642 Created atlas bitmap 16384x13924 [none]
+   4.643 Created atlas bitmap 8192x4208 [decal]
+   4.644 Created atlas bitmap 16384x5728 [low-object, linear-minification]
+   4.645 Created atlas bitmap 8192x4432 [mipmap, linear-minification, linear-magnification, linear-mip-level]
+   4.645 Created atlas bitmap 16384x6064 [terrain, mipmap, linear-minification, linear-mip-level]
+   4.646 Created atlas bitmap 4096x3216 [terrain-effect-map, mipmap, linear-minification, linear-mip-level]
+   4.646 Created atlas bitmap 4096x1856 [smoke, mipmap, linear-minification, linear-magnification]
+   4.646 Created atlas bitmap 4096x3120 [mipmap]
+   4.647 Created atlas bitmap 8192x2416 [icon, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level]
+   4.647 Created atlas bitmap 8192x1496 [alpha-mask]
+   4.651 Created atlas bitmap 16384x14780 [shadow, linear-magnification, alpha-mask]
+   4.651 Created atlas bitmap 8192x2352 [shadow, mipmap, linear-magnification, alpha-mask]
+   4.651 Created atlas bitmap 2048x272 [icon-background, not-compressed, mipmap, linear-minification, linear-magnification, linear-mip-level, ]
+   4.657 Texture processor created (2048). GPU accelerated compression Supported: yes, Enabled: yes/yes. Test passed. YCoCgDXT PSNR: 35.83, BC3 PSNR: 33.82
+   5.678 Parallel Sprite Loader initialized (threads: 5)
+  13.290 Sprites loaded
+  13.366 Generated mipmaps (4) for atlas [3] of size 16384x5728   
+  13.398 Generated mipmaps (3) for atlas [4] of size 8192x4432   
+  13.451 Generated mipmaps (3) for atlas [5] of size 16384x6064   
+  13.462 Generated mipmaps (3) for atlas [6] of size 4096x3216   
+  13.474 Generated mipmaps (3) for atlas [7] of size 4096x1856   
+  13.512 Generated mipmaps (3) for atlas [8] of size 4096x3120   
+  13.533 Generated mipmaps (5) for atlas [9] of size 8192x2416   
+  13.545 Generated mipmaps (3) for atlas [12] of size 8192x2352   
+  13.562 Custom mipmaps uploaded.
+  13.737 Factorio initialised
+  13.737 Discord overlay detected (DiscordHook64.dll)
+  13.758 Steam Storage Quota: 4766/4768
+  15.264 Joining game STEAM ID:({76561197996417032})
+  15.264 Info UDPSocket.cpp:33: Opening socket
+  15.271 Info ClientMultiplayerManager.cpp:591: UpdateTick(4294967295) changing state from(Ready) to(Connecting)
+  25.280 Error ClientMultiplayerManager.cpp:100: MultiplayerManager failed: multiplayer.not-received-connection-accept-reply
+  25.280 Info ClientMultiplayerManager.cpp:591: UpdateTick(4294967295) changing state from(Connecting) to(InitializationFailed)
+  27.650 Info ClientMultiplayerManager.cpp:207: Quitting multiplayer connection.
+  27.650 Info ClientMultiplayerManager.cpp:591: UpdateTick(4294967295) changing state from(InitializationFailed) to(Disconnected)
+  27.651 Info UDPSocket.cpp:218: Closing socket
+  27.651 Info UDPSocket.cpp:248: Socket closed
+  28.640 Joining game STEAM ID:({76561197996417032})
+  28.640 Info UDPSocket.cpp:33: Opening socket
+  28.641 Info ClientMultiplayerManager.cpp:591: UpdateTick(4294967295) changing state from(Ready) to(Connecting)
+  38.647 Error ClientMultiplayerManager.cpp:100: MultiplayerManager failed: multiplayer.not-received-connection-accept-reply
+  38.648 Info ClientMultiplayerManager.cpp:591: UpdateTick(4294967295) changing state from(Connecting) to(InitializationFailed)
+  39.533 Info ClientMultiplayerManager.cpp:207: Quitting multiplayer connection.
+  39.533 Info ClientMultiplayerManager.cpp:591: UpdateTick(4294967295) changing state from(InitializationFailed) to(Disconnected)
+  39.534 Info UDPSocket.cpp:218: Closing socket
+  39.534 Info UDPSocket.cpp:248: Socket closed
+  44.800 Joining game IP ADDR:({108.45.24.79:34199})
+  44.800 Info UDPSocket.cpp:33: Opening socket
+  44.800 Info ClientMultiplayerManager.cpp:591: UpdateTick(4294967295) changing state from(Ready) to(Connecting)
+  45.014 Connection refused
+  45.014 Info ClientMultiplayerManager.cpp:207: Quitting multiplayer connection.
+  45.014 Info ClientMultiplayerManager.cpp:591: UpdateTick(4294967295) changing state from(Connecting) to(Disconnected)
+  45.016 Info HttpSharedState.cpp:54: Downloading https://auth.factorio.com/generate-user-server-key-2?api_version=4
+  45.464 Info AuthServerConnector.cpp:99: Received key from auth server.
+  45.464 Info UDPSocket.cpp:218: Closing socket
+  45.464 Info UDPSocket.cpp:248: Socket closed
+  45.464 Joining game IP ADDR:({108.45.24.79:34199})
+  45.464 Info UDPSocket.cpp:33: Opening socket
+  45.465 Info ClientMultiplayerManager.cpp:591: UpdateTick(4294967295) changing state from(Ready) to(Connecting)
+  45.680 Info ClientSynchronizer.cpp:34: Initialized Synchronizer local peer(1) latency(32).
+  45.681 Info ClientMultiplayerManager.cpp:591: UpdateTick(4294967295) changing state from(Connecting) to(ConnectedWaitingForMap)
+  45.681 Info ClientRouter.cpp:222: ConnectionAccepted
+  45.730 Downloading file C:\Users\jovia\AppData\Roaming\Factorio\temp\auxiliary-data (97 B, 1 blocks)
+  45.808 Finished download (0 s, 97 B, 1.2 kB/s)
+  45.815 Warning ClientMultiplayerManager.cpp:709: Couldn't remove C:\Users\jovia\AppData\Roaming\Factorio\temp\auxiliary-data: The process cannot access the file because it is being used by another process.
+
+  45.996 Info ClientMultiplayerManager.cpp:768: Received mapReadyForDownload
+  45.996 Downloading file C:\Users\jovia\AppData\Roaming\Factorio\temp\mp-download.zip (7516694 B, 14944 blocks)
+  46.001 Info ClientMultiplayerManager.cpp:591: UpdateTick(4294967295) changing state from(ConnectedWaitingForMap) to(ConnectedDownloadingMap)
+  47.879 Finished download (1 s, 7.5 MB, 3.9 MB/s)
+  47.889 Info ClientMultiplayerManager.cpp:748: updateTick(4294967295) map download finished creating scenario
+  47.889 Info ClientMultiplayerManager.cpp:591: UpdateTick(4294967295) changing state from(ConnectedDownloadingMap) to(ConnectedLoadingMap)
+  47.889 Loading map C:\Users\jovia\AppData\Roaming\Factorio\temp\mp-download.zip: 7516694 bytes.
+  47.924 Loading level.dat: 27822180 bytes.
+  47.928 Info Scenario.cpp:197: Map version 1.1.26-0
+  48.254 Loading script.dat: 813272 bytes.
+  48.258 Checksum for script C:/Users/jovia/AppData/Roaming/Factorio/temp/currently-playing/control.lua: 1735894310
+  48.260 Checksum for script __Clockwork__/control.lua: 4221368201
+  48.261 Checksum for script __NoRespawnGun-Updated__/control.lua: 1907827565
+  48.262 Checksum for script __RampantArsenal__/control.lua: 3279837233
+  48.276 Checksum for script __Rampant__/control.lua: 950881067
+  48.315 Info ClientMultiplayerManager.cpp:591: UpdateTick(2157271) changing state from(ConnectedLoadingMap) to(TryingToCatchUp)
+  48.565 Info ClientMultiplayerManager.cpp:591: UpdateTick(2157426) changing state from(TryingToCatchUp) to(WaitingForCommandToStartSendingTickClosures)
+  48.748 Info ClientMultiplayerManager.cpp:591: UpdateTick(2157426) changing state from(WaitingForCommandToStartSendingTickClosures) to(InGame)
+  48.897 Info GameActionHandler.cpp:4982: UpdateTick (2157435) processed PlayerJoinGame peerID(4) playerIndex(2) mode(connect) 
+  50.780 Error GameActionHandler.cpp:3533: Multiplayer desynchronisation: crc test (heuristic) failed for crcTick(2157542) serverCRC(1009779499) localCRC(1990186491)
+  50.780 Info ClientMultiplayerManager.cpp:591: UpdateTick(2157543) changing state from(InGame) to(DesyncedWaitingForMap)
+  50.797 Error GameActionHandler.cpp:3533: Multiplayer desynchronisation: crc test (heuristic) failed for crcTick(2157543) serverCRC(2471670975) localCRC(3657261679)
+  50.813 Error GameActionHandler.cpp:3533: Multiplayer desynchronisation: crc test (heuristic) failed for crcTick(2157544) serverCRC(153792383) localCRC(1132820911)
+  50.830 Error GameActionHandler.cpp:3533: Multiplayer desynchronisation: crc test (heuristic) failed for crcTick(2157545) serverCRC(2230818312) localCRC(294261861)
+  50.848 Error GameActionHandler.cpp:3533: Multiplayer desynchronisation: crc test (heuristic) failed for crcTick(2157546) serverCRC(2464869568) localCRC(1739910595)
+  50.864 Error GameActionHandler.cpp:3533: Multiplayer desynchronisation: crc test (heuristic) failed for crcTick(2157547) serverCRC(1196950468) localCRC(1021070248)
+  50.881 Error GameActionHandler.cpp:3533: Multiplayer desynchronisation: crc test (heuristic) failed for crcTick(2157548) serverCRC(3205541021) localCRC(3122819439)
+  50.898 Error GameActionHandler.cpp:3533: Multiplayer desynchronisation: crc test (heuristic) failed for crcTick(2157549) serverCRC(884754993) localCRC(831428547)
+  50.913 Error GameActionHandler.cpp:3533: Multiplayer desynchronisation: crc test (heuristic) failed for crcTick(2157550) serverCRC(3827802283) localCRC(254658141)
+  50.931 Error GameActionHandler.cpp:3533: Multiplayer desynchronisation: crc test (heuristic) failed for crcTick(2157551) serverCRC(1698700388) localCRC(1637332251)
+  50.947 Error GameActionHandler.cpp:3533: Multiplayer desynchronisation: crc test (heuristic) failed for crcTick(2157552) serverCRC(2505714020) localCRC(1509012125)
+  50.964 Info ClientMultiplayerManager.cpp:762: updateTick(2157554) received player (4) desynced
+  50.964 Downloading file C:\Users\jovia\AppData\Roaming\Factorio\temp\auxiliary-data (97 B, 1 blocks)
+  50.964 Error GameActionHandler.cpp:3533: Multiplayer desynchronisation: crc test (heuristic) failed for crcTick(2157553) serverCRC(2710397035) localCRC(1831271314)
+  51.042 Finished download (0 s, 97 B, 1.2 kB/s)
+  51.048 Warning ClientMultiplayerManager.cpp:709: Couldn't remove C:\Users\jovia\AppData\Roaming\Factorio\temp\auxiliary-data: The process cannot access the file because it is being used by another process.
+
+  52.981 Info ClientMultiplayerManager.cpp:768: Received mapReadyForDownload
+  52.982 Info ClientMultiplayerManager.cpp:591: UpdateTick(2157567) changing state from(DesyncedWaitingForMap) to(DesyncedCatchingUpWithMapReadyForDownload)
+  52.985 Info ClientMultiplayerManager.cpp:591: UpdateTick(4294967295) changing state from(DesyncedCatchingUpWithMapReadyForDownload) to(DesyncedSavingLocalVariantOfMap)
+  54.529 Downloading file C:\Users\jovia\AppData\Roaming\Factorio\temp\mp-download.zip (24975814 B, 49654 blocks)
+  54.533 Info ClientMultiplayerManager.cpp:591: UpdateTick(4294967295) changing state from(DesyncedSavingLocalVariantOfMap) to(DesyncedDownloadingMap)
+  59.362 Finished download (4 s, 24.9 MB, 5.1 MB/s)
+  59.396 Info ClientMultiplayerManager.cpp:748: updateTick(4294967295) map download finished creating scenario
+  59.396 Info ClientMultiplayerManager.cpp:591: UpdateTick(4294967295) changing state from(DesyncedDownloadingMap) to(DesyncedCreatingReport)
